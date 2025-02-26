@@ -1,0 +1,4 @@
+Django>=4.2.16
+django-image-cropping>=1.7
+dj-config-url>=0.1.1
+environ>=1.0
